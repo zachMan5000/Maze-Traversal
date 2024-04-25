@@ -1,4 +1,4 @@
-// Zachary Deem - Advanced Programming Projects - JAVA - 04/09/2024
+// Maze Traversal - BFS, DFS
 import java.io.*;
 import java.util.*;
 import java.util.Stack;
