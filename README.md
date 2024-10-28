@@ -1,2 +1,2 @@
-- This program randomly generates a 2d maze and traverses it in realtime using the depth-first search and breadth-first search algorithms.
+- This program randomly generates a 2d maze and traverses it using the depth-first search and breadth-first search algorithms.
 - Unsolvable mazes may be generated, and the program correctly identifies them as such.
